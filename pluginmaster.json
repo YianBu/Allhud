@@ -15,7 +15,7 @@
     ],
     "InternalName": "AllHud",
     "AssemblyVersion": "0.1.0.0",
-    "RepoUrl": "https://github.com/USERNAME/REPONAME",
+    "RepoUrl": "https://github.com/YianBu/Allhud",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -24,9 +24,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/USERNAME/REPONAME/main/plugins/AllHud/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YianBu/Allhud/main/plugins/AllHud/latest.zip",
     "DownloadLinkTesting": null,
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/USERNAME/REPONAME/main/plugins/AllHud/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YianBu/Allhud/main/plugins/AllHud/latest.zip",
     "AcceptsFeedback": true
   }
 ]
