@@ -1,0 +1,32 @@
+[
+  {
+    "Author": "bya（改自 QiongHHHZZZ/岚玉棠改）",
+    "Name": "AllHud",
+    "Punchline": "定制 HUD 插件（bya 改）",
+    "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块。套装切换器已改为 角色->职业->套装 两级菜单，并支持自定义缩放。",
+    "Changelog": null,
+    "Tags": [
+      "hud",
+      "overlay",
+      "ui",
+      "info",
+      "party",
+      "combat"
+    ],
+    "InternalName": "AllHud",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/USERNAME/REPONAME",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/USERNAME/REPONAME/main/plugins/AllHud/latest.zip",
+    "DownloadLinkTesting": null,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/USERNAME/REPONAME/main/plugins/AllHud/latest.zip",
+    "AcceptsFeedback": true
+  }
+]

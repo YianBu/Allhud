@@ -1,0 +1,12 @@
+# build output
+src/bin/
+src/obj/
+
+# original compiled copies kept locally (already repackaged under plugins/)
+/AllHud.dll
+/AllHud.pdb
+/AllHud.deps.json
+
+# temp
+*.user
+Thumbs.db
