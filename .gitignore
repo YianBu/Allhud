@@ -7,6 +7,11 @@ src/obj/
 /AllHud.pdb
 /AllHud.deps.json
 
+# local-only files (kept on disk, NOT uploaded)
+/src/
+/AllHud.json
+/README.md
+
 # temp
 *.user
 Thumbs.db
