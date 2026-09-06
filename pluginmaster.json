@@ -14,7 +14,7 @@
       "combat"
     ],
     "InternalName": "AllHud",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "RepoUrl": "https://github.com/YianBu/Allhud",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
