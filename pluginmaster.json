@@ -3,8 +3,8 @@
     "Author": "bya（改自 QiongHHHZZZ/岚玉棠改）",
     "Name": "AllHud",
     "Punchline": "定制 HUD 插件（bya 改）",
-    "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块。套装切换器已改为 角色->职业->套装 两级菜单，并支持自定义缩放。",
-    "Changelog": null,
+    "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块。套装切换器支持 角色->职业->套装 两级菜单与自定义缩放，并可固定 3 列布局。",
+    "Changelog": "- 套装切换：新增“特殊职业”分组（青魔法师 / 驯兽师），置于第一列第三块。\n- 服务器信息栏：新增“DTR收纳”，可将条目收进折叠钮，点击以弹层查看，样式随主题。\n- 货币：新增“货币2”组件（独立货币与设置），原货币改名为“货币1”。\n- 新增“队员招募”组件，点击打开游戏原生招募面板（主栏/快捷菜单可添加）。\n- 新增 /allhud 宏指令，用于开关设置窗口。\n- 主题：新增“黑金”“暗紫”，并支持与液态玻璃一致的可调圆角。\n- 套装切换：切换后自动收起全部职业折叠；调整“任务栏文字/套装标题”等显示项与设置顺序。",
     "Tags": [
       "hud",
       "overlay",
@@ -14,7 +14,7 @@
       "combat"
     ],
     "InternalName": "AllHud",
-    "AssemblyVersion": "0.3.1.7",
+    "AssemblyVersion": "0.3.1.8",
     "RepoUrl": "https://github.com/YianBu/Allhud",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
