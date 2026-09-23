@@ -4,7 +4,7 @@
     "Name": "AllHud",
     "Punchline": "定制 HUD 插件（bya 改）",
     "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块。套装切换器支持 角色->职业->套装 两级菜单与自定义缩放，并可固定 3 列布局。",
-    "Changelog": "- “工具栏固定”图标改为空心描边样式（锁体/锁环描边 + 钥匙孔），并调整居中；锁/开锁方向正确。",
+    "Changelog": "- 性能优化：耐久/精炼组件不再每帧扫描装备数据（改为缓存）。\n- 性能优化：任务栏条目尺寸加入缓存，减少每帧文本测量。\n- 性能优化：服务器信息栏刷新周期由 250ms 调整为 750ms。\n- 移除不再需要的图标字体预热，降低内存占用。",
     "Tags": [
       "hud",
       "overlay",
@@ -14,7 +14,7 @@
       "combat"
     ],
     "InternalName": "AllHud",
-    "AssemblyVersion": "0.3.2.4",
+    "AssemblyVersion": "0.3.2.5",
     "RepoUrl": "https://github.com/YianBu/Allhud",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
