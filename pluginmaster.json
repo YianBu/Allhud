@@ -4,7 +4,7 @@
     "Name": "AllHud",
     "Punchline": "定制 HUD 插件（bya 改）",
     "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块。套装切换器支持 角色->职业->套装 两级菜单与自定义缩放，并可固定 3 列布局。",
-    "Changelog": "- 新增“耐久/精炼”组件（移植自 Umbra）：任务栏显示修理图标 + 耐久/精炼两条进度条（耐久主题色、精炼青绿色）。\n- 点击组件弹出装备详情：逐件显示图标/名称/耐久%/精炼%，并提供“修理 / 精制魔晶石 / 镶嵌魔晶石”操作，修理项显示可用暗物质数量。",
+    "Changelog": "- 新增“工具栏固定”组件：一键切换主任务栏的固定/自动隐藏，图标随状态变化（锁/开锁）。\n- 主栏开启自动隐藏后，鼠标移到屏幕对应边缘才显示。\n- 优化“耐久/精炼”组件的进度条配色（耐久主题色、精炼青绿色）与显示。",
     "Tags": [
       "hud",
       "overlay",
@@ -14,7 +14,7 @@
       "combat"
     ],
     "InternalName": "AllHud",
-    "AssemblyVersion": "0.3.2.2",
+    "AssemblyVersion": "0.3.2.3",
     "RepoUrl": "https://github.com/YianBu/Allhud",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
