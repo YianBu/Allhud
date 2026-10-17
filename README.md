@@ -4,13 +4,15 @@ FFXIV Dalamud 第三方插件库，使用统一的 `pluginmaster.json` 维护插
 
 ## 安装
 
-在游戏内 卫月（Dalamud）→ 插件安装器 → 第三方仓库 中添加以下库链接，即可浏览并安装本仓库收录的全部插件：
+在游戏内 卫月（Dalamud）→ 插件安装器 → 第三方仓库 中添加以下库链接，即可浏览并安装本库收录的全部插件（含 AllHud）：
 
 ```
-https://raw.githubusercontent.com/YianBu/Allhud/main/pluginmaster.json
+https://raw.githubusercontent.com/YianBu/Plugins/main/pluginmaster.json
 ```
 
-项目地址：<https://github.com/YianBu/Allhud>
+插件库：<https://github.com/YianBu/Plugins>
+
+插件项目：<https://github.com/YianBu/Allhud>
 
 ## 插件列表
 
