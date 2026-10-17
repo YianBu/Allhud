@@ -10,7 +10,6 @@ src/obj/
 # local-only files (kept on disk, NOT uploaded)
 /src/
 /AllHud.json
-/README.md
 
 # temp
 *.user
