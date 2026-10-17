@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/YianBu/Plugins/main/pluginmaster.json
 
 ### AllHud（bya 改）
 
-FFXIV Dalamud HUD 定制插件。本插件由 `QiongHHHZZZ（岚玉棠改）` 的 AllHud 反编译源码二次修改而来，仅供个人学习使用；公开分发前请自行确认原作者许可。
+FFXIV Dalamud HUD 定制插件。本插件由 `QiongHHHZZZ（岚玉棠改）` 的 AllHud 反编译源码二次修改而来，仅供个人学习使用。
 
 #### 主要改动（相对原版）
 
